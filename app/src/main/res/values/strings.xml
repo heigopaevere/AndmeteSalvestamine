@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="info">info</string>
+    <string name="sisu">tekst</string>
+    <string name="andmed">salvesta andmed</string>
+    <string name="kuva">loe andmed</string>
+    <string name="edasi">loe edasi</string>
+</resources>
